@@ -1,0 +1,8 @@
+# Adding Macro Shortcut Button to CorelDraw2015
+
+01. Add macro to global scripts in Tools -> Scripts -> Script Editor
+02. Tools -> Options -> Customization -> Commands
+03. Select Macros in dropdown menu
+04. Select your macro from the list
+05. Set the Name and Icon
+06 Drag and drop it to toolbar
